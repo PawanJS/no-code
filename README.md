@@ -6,6 +6,6 @@ The first website I developed using shopify is a simple furniture store. You can
 
 The password for the store is 123456. You can have a look at the store.
 
-![Furnish store](images/furnish.png)
+![Furnish store](./images/furnish.png)
 
 The second website I developed using wordpress the most popular CMS. I used wordpress for the first time and found it more customizable than shopify. You can have a look at the store here [Coming soon](#).
