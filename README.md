@@ -8,4 +8,5 @@ The password for the store is 123456. You can have a look at the store.
 
 ![Furnish store](./img/furnish.png)
 
-**The second** website I developed using wordpress the most popular CMS. I used wordpress for the first time and found it more customizable than shopify. You can have a look at the store here [Coming soon](#).
+**The second** website I developed using wordpress the most popular CMS. I used wordpress for the first time and found it more customizable than shopify. You can have a look at the store here [Living Life](https://www.blog-by-pawanjs.epizy.com/).
+![Living Life](./img/living.png)
